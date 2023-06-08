@@ -1,0 +1,37 @@
+一 多选题：
+4
+2
+1,3
+2,5
+1,4
+2
+5,1,4
+2,5
+2,3,5
+  3, 4
+
+
+
+二、填空题
+
+区块链的互联网
+Gaia, ATOM
+Jae Kwon
+2/3
+authz
+freegrant
+gov
+CosmWasm
+Axelar,Gravity bridge
+ Mintscan,IOBScan
+
+
+
+
+三、问答题
+
+ 因为relayer没有及时把用户A链发的数据包转到B链上，每个数据包都标记一个超时高度，如果relayer3观察到有一个A链数据包在B链超时，构造不存在证明，发timeout package给A链。
+ 边界智能（ICS20，ics721） 章鱼网络（ICS10）， Ping.pub（ICS100，101）
+ https://github.com/bianjieai/ics721-demo  
+  Cosmostation,Mathwallet
+  https://mp.weixin.qq.com/s/fC3d1vqcdpvGLeorNIpDUQ
